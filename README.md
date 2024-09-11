@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, I'm Samrat Thapa 👋
 
-<!--
-**samrat415/samrat415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Experienced Golang developer passionate about innovative solutions in the fintech industry. 
 
-Here are some ideas to get you started:
+- 🔧 Proficient in Golang for high-performance app development
+- 💻 Strong background in backend using Laravel
+- ⏱️ Committed to clean coding and timely delivery
+- 🤝 Eager to collaborate on exciting projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out if you have any questions or want to collaborate on fintech projects!
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=samrat415)](https://github.com/ryo-ma/github-profile-trophy)
